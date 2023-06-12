@@ -7,6 +7,7 @@ import Cart from "./components/Cart";
 function App() {
   return (
     <BrowserRouter>
+    {/* This is a comment */}
       <Header />
       <div className="App">
         <Route path="/" exact>
